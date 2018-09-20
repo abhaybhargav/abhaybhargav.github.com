@@ -1,9 +1,9 @@
 # Site settings
 title: Abhay on Security
 description: > # this means to ignore newlines until "baseurl:"
-  I am Abhay Bhargav. I run an AppSec company called we45 (we45.com). This is my personal blog, which I use to capture thoughts on security, both for personal learning and for anyone out there. 
+  I am Abhay Bhargav. I run an AppSec company called we45 (we45.com). This is my personal blog, which I use to capture thoughts on security, both for personal learning and for anyone out there.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://abhaybhargav.com" # the base hostname & protocol for your site
+url: "https://www.abhaybhargav.com" # the base hostname & protocol for your site
 twitter_username: abhaybhargav
 github_username:  abhaybhargav
 
